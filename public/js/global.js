@@ -67,7 +67,7 @@ $(document).ready(function(){
 	function startTyping(){
 		$(".verb").typed({
 			//place space before strings otherwise doesnt render with html tags properly
-			strings: [' <span class="build">Augment Our Reality</span>',' <span class="code">Create Mobile Experiences</span>',' <span class="design">Research New Realities</span>',' <span class="invent">Advocate for Self-Taught Leaders</span>', ' <span class="create">Question Norms</span>', ' <span class="research">Use Generative Adversarial Networks</span>'],
+			strings: [' <span class="question">Build Kasarra</span>', ' <span class="build">Augment Our Reality</span>',' <span class="code">Create Mobile Experiences</span>',' <span class="design">Research New Realities</span>',' <span class="invent">Advocate for Self-Taught Leaders</span>', ' <span class="create">Question Norms</span>', ' <span class="research">Use Generative Adversarial Networks</span>'],
 			typeSpeed: 80,
 			backSpeed: 30,
 			backDelay: 1500,
